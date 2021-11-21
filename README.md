@@ -1,9 +1,10 @@
-## Hi I'm Lucas Oliveira
-<div align="center">
-  <a href="https://github.com/lucaoliver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaoliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaoliver&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 👨🏻‍💻 Hi I'm Lucas Oliveira
+- 😄 I'm currently studying computer science.
+- 📝  I am studying front-end technologies like -> HTML5 | CSS3 | JS | ReactJS
+  
+  ##
+  
+  ### 📌 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +15,16 @@
   
   ##
   
+   ### 📊 Estatísticas
+<div align="center">
+  <a href="https://github.com/lucaoliver">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaoliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaoliver&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+   ### 🔗 Rede Social
  <div> 
   <a href="https://instagram.com/1ucaso1iveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasoliveiraahh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

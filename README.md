@@ -33,6 +33,6 @@
        <a href="https://lucasoliveirabr.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
    
     - That´s all 🤠
-<img src="[https://raw.githubusercontent.com/preethamb97/preethamb97/main/dbzgoku.gif](https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif)" object-fit="contain" align="right" width="100%" >
  
 </div> 
+<img src="https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif" object-fit="contain" align="right" width="100%" >

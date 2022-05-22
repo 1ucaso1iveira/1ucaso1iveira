@@ -31,8 +31,8 @@
   <a href = "mailto:lucasoliveiraahh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-o-134353117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
        <a href="https://lucasoliveirabr.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
-   
-    - That´s all 🤠
  
 </div> 
-<img src="https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif" object-fit="contain" align="right" width="100%" >
+  
+      - That´s all 🤠
+<img src="https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif" object-fit="contain" align="center" width="100%" >

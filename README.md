@@ -1,4 +1,4 @@
-## 👨🏻‍💻 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi I'm [Lucas Oliveira](https://www.linkedin.com/in/lucas-o-134353117).
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi I'm [Lucas Oliveira](https://www.linkedin.com/in/lucas-o-134353117) 👨🏻‍💻 . 
 - 😄 I'm currently studying computer science.
 - 📝  I am studying front-end technologies like -> HTML5 | CSS3 | JS | ReactJS
   

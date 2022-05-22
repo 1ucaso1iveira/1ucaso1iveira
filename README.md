@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Hi I'm Lucas Oliveira
+## 👨🏻‍💻 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi I'm [Lucas Oliveira](https://www.linkedin.com/in/lucas-o-134353117).
 - 😄 I'm currently studying computer science.
 - 📝  I am studying front-end technologies like -> HTML5 | CSS3 | JS | ReactJS
   
@@ -33,3 +33,5 @@
        <a href="https://lucasoliveirabr.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
  
 </div> 
+  - That´s all 🤠
+<img src="[https://raw.githubusercontent.com/preethamb97/preethamb97/main/dbzgoku.gif](https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif)" object-fit="contain" align="right" width="100%" >
